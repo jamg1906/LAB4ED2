@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BibliotecaDeClases.Cifrados
 {
-    public class Cesar
+    public class Cesar: Interfaces.IAlgoritmoCifrado
     {
         private static Dictionary<int, int> DirAlpha = new Dictionary<int, int>();
         private static string routeDirectory = Environment.CurrentDirectory;
@@ -66,5 +66,14 @@ namespace BibliotecaDeClases.Cifrados
             }
         }
 
+        public byte[] CifrarData(byte[] contenido, string llave)
+        {
+            throw new NotImplementedException();
+        }
+
+        public byte[] DescifrarData(byte[] contenido, string llave)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

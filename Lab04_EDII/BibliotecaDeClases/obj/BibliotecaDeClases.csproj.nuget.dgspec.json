@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "projectName": "BibliotecaDeClases",
-        "projectPath": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
-        "packagesPath": "C:\\Users\\majoj\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\IDEs\\Visual\\2019\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\majoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -43,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
