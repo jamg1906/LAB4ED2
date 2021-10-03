@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "projectName": "BibliotecaDeClases",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj",
         "projectName": "Lab04_EDII",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+              "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
               }
             }
           }

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\Lab4_Consola\\Lab4_Consola.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab4_Consola\\Lab4_Consola.csproj",
       "projectName": "Lab4_Consola",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\Lab4_Consola\\Lab4_Consola.csproj",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab4_Consola\\Lab4_Consola.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\Lab4_Consola\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab4_Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+            "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
             }
           }
         }

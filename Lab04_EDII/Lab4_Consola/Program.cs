@@ -16,6 +16,8 @@ namespace Lab4_Consola
 
             string llave = "4";
 
+            Console.WriteLine("Cifrado ZigZag, clave: 4");
+
             byte[] result_encrypt2 = ZigZag.CifrarData(ConvertToByte(texto), llave);
             Console.WriteLine(ConvertToChar(result_encrypt2));
 
