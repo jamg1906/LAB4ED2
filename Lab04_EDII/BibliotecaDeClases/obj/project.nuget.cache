@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "haD9JdxJIpE3yi+ZQn9YMffuEjimv3Wd6eI8K7/dH1379E+XrmXYwFbmPl/m7xsQPAd6cDRErT4T5vZHbq5w5g==",
+  "dgSpecHash": "SE1b5CV9R29OKWFqhEPqgzFkyNbWo3NWvMCMB2DEqae51o/3/w1DPYqwA9KDP4UTPf5W8d+cg+BsphW5A8bL2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\majoj\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.10\\microsoft.aspnetcore.http.features.5.0.10.nupkg.sha512",
+    "C:\\Users\\majoj\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\majoj\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\majoj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

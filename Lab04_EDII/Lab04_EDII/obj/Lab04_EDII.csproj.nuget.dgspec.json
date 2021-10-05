@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj": {}
+    "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+    "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectUniqueName": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "projectName": "BibliotecaDeClases",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\obj\\",
+        "projectPath": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "packagesPath": "C:\\Users\\majoj\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\BibliotecaDeClases\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\IDEs\\Visual\\2019\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\majoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,21 +59,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj": {
+    "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj",
+        "projectUniqueName": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj",
         "projectName": "Lab04_EDII",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\Lab04_EDII\\obj\\",
+        "projectPath": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\Lab04_EDII\\Lab04_EDII.csproj",
+        "packagesPath": "C:\\Users\\majoj\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\Lab04_EDII\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\IDEs\\Visual\\2019\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\majoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,9 +90,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\nuestro lab - Copy\\Lab04ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+              "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+                "projectPath": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
               }
             }
           }
@@ -93,6 +106,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -111,7 +125,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
