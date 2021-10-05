@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mefnC5sCCx/7up8yeWu9mpptUv/689Fz03fNUXOsuqrQ7tXjRN3IKGk6tRbgpcalz9UpJtkORHmwVYFsgcWoRQ==",
+  "dgSpecHash": "voIMkPG+G1wJ0jIWThVyo2wx82q10A6tMp3yXzgoqbehLG4YF0c1lkOe1qKnCExfTRsiSaQQ5Bp7m2fTIX+o0A==",
   "success": true,
   "projectFilePath": "D:\\Universidad\\2dociclo2021\\EstructuraDatosII\\Lab\\LAB4ED2\\Lab04_EDII\\Lab4_Consola\\Lab4_Consola.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\majoj\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.10\\microsoft.aspnetcore.http.features.5.0.10.nupkg.sha512",
+    "C:\\Users\\majoj\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\majoj\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\majoj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

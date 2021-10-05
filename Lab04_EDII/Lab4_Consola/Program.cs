@@ -1,5 +1,4 @@
 ﻿using System;
-using BibliotecaDeClases;
 
 namespace Lab4_Consola
 {
@@ -8,6 +7,7 @@ namespace Lab4_Consola
         static void Main(string[] args)
         {
             BibliotecaDeClases.Cifrados.ZigZag ZigZag = new BibliotecaDeClases.Cifrados.ZigZag();
+            BibliotecaDeClases.Cifrados.Cesar Cesar = new BibliotecaDeClases.Cifrados.Cesar();
 
             string texto = "in my head i do everything right when you call i forgive and not" +
                " fight all the moments i play in the dark we were wild and flourescent come " +
@@ -25,6 +25,17 @@ namespace Lab4_Consola
             Console.WriteLine(ConvertToChar(result_decrypt2));
 
             Console.ReadKey();
+
+            Console.WriteLine("\n");
+            string llave4 = "murcielago";
+            Console.WriteLine("Cifrado Cesar, clave: " + llave4);
+
+            byte[] result_encrypt4 = Cesar.CifrarData(ConvertToByte(texto), llave4);
+            Console.WriteLine(ConvertToChar(result_encrypt4));
+            byte[] result_decrypt4 = Cesar.DescifrarData(result_encrypt4, llave4);
+            Console.WriteLine(ConvertToChar(result_decrypt4));
+            Console.ReadKey();
+
         }
 
         public static byte[] ConvertToByte(string contenido)
