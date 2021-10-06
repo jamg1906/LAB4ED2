@@ -56,6 +56,12 @@ namespace Lab04_EDII.Models
                     final = fileName + ext;
                     break;
                 case "cesar":
+                    if (key == null)
+                    {
+                        throw new Exception();
+                    }
+                    BibliotecaDeClases.Cifrados.Cesar Cesar = new BibliotecaDeClases.Cifrados.Cesar();
+                    content = Cesar.CifrarData(buffer, key);
                     ext = ".csr";
                     final = fileName + ext;
                     break;
@@ -97,6 +103,12 @@ namespace Lab04_EDII.Models
                     final = fileName + ext;
                     break;
                 case "cesar":
+                    if (key == null)
+                    {
+                        throw new Exception();
+                    }
+                    BibliotecaDeClases.Cifrados.Cesar Cesar = new BibliotecaDeClases.Cifrados.Cesar();
+                    content = Cesar.DescifrarData(buffer, key);
                     final = fileName + ext;
                     break;
                 default:
